@@ -50,12 +50,18 @@ color: #2e2f42;
     color: #434455;
 }
 
+.hero{
+    background: #2e2f42;
+}
+
 .hero-btn{
 font-weight: 500;
 font-size: 16px;
 line-height: 150%;
 letter-spacing: 0.04em;
 color: #fff;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
 }
 
 .hero-title{
