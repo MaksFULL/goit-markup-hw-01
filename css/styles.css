@@ -53,11 +53,11 @@ color: #4d5ae5;
     color: #404bbf
 }
 
-.header-contacts-link:hover{
+.header-contacts-item{
     color: #404bbf
 }
 
-.header-contacts-link:focus{
+.header-contacts-item:focus{
     color: #404bbf
 }
 
