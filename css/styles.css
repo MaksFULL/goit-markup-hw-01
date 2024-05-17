@@ -82,11 +82,11 @@ color: #2e2f42;
 }
 
 .hero-btn:hover{
-    color: #404bbf 
+    background-color: #404BBF
 }
 
 .hero-btn:focus{
-    color: #404bbf
+    background-color: #404BBF
 }
 
 .hero-btn{
