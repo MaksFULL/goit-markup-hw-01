@@ -46,11 +46,11 @@ color: #4d5ae5;
 }
 
 .header-menu-up:hover{
-color: #F57F17;
+    color: #404bbf
 }
 
 .header-menu-up:focus{
-    color: #F57F17;
+    color: #404bbf
 }
 
 .header-menu-up{
@@ -82,11 +82,11 @@ color: #2e2f42;
 }
 
 .hero-btn:hover{
-    color: #F57F17; 
+    color: #404bbf 
 }
 
 .hero-btn:focus{
-    color: #F57F17;
+    color: #404bbf
 }
 
 .hero-btn{
