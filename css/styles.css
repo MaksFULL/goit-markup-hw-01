@@ -13,6 +13,10 @@ a {
     text-decoration: none;
 }
 
+.adress{
+    font-style: normal 
+}
+
 .header-logo-ralewey{
     font-family: "Raleway", sans-serif;
 font-weight: 700;
