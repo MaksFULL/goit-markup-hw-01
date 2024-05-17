@@ -129,6 +129,10 @@ text-align: center;
 color: #434455;
 }
 
+.portfolio{
+    text-transform: capitalize
+}
+
 .portfolio-title{
 font-weight: 700;
 font-size: 36px;
