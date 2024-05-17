@@ -53,6 +53,14 @@ color: #4d5ae5;
     color: #404bbf
 }
 
+.header-contacts-link:hover{
+    color: #404bbf
+}
+
+.header-contacts-link:focus{
+    color: #404bbf
+}
+
 .header-menu-up{
 font-weight: 500;
 font-size: 16px;
