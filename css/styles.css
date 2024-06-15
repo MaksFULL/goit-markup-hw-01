@@ -12,17 +12,34 @@ body {
 }
 
 
-ul {
+ul, ol {
     list-style-type: none;
+    padding: 0%;
+    margin: 0%;
 }
 
 a {
     text-decoration: none;
 }
 
-.adress{
-    font-style: normal 
+
+/*Container*/
+
+.container{
+    width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
 }
+
+.header-container{
+    display: flex;
+}
+
+
+
+
+/*Hw2*/
+
 
 .header-navigation{
     color: #4d5ae5;
@@ -38,6 +55,27 @@ a {
     color: #2e2f42;
 }
 
+/*Navigation*/
+
+.navigation{
+    display: flex;
+}
+
+.nav-list{
+    display: flex;
+    gap: 40px;
+}
+
+.adress{
+    margin-left: auto;
+    font-style: normal 
+}
+
+
+.adress-list{
+    display: flex;
+}
+
 .header-logo{
     font-family: "Raleway", sans-serif;
 font-weight: 700;
@@ -46,6 +84,7 @@ line-height: 117%;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
+margin-right: 76px;
 }
 
 .header-menu-item{
