@@ -58,6 +58,9 @@ body {
 
 .container-dv{
   display: flex;
+max-width: 1158px;
+padding: 0 15px;
+margin: 0 auto;
 }
 
 .navigation {
@@ -1105,6 +1108,7 @@ body {
     align-items: start;
     gap: 72px 24px;
     margin: 0 auto;
+    display: flex;
   }
   .logo-description {
     width: 48%;
@@ -1150,6 +1154,8 @@ body {
     align-items: center;
     gap: 12px;
   }
+
+
   .address-type {
     white-space: nowrap;
     font-size: 16px;
