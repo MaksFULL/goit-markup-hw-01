@@ -58,7 +58,7 @@ body {
 .container-dv{
   display: flex;
 max-width: 1158px;
-padding: 0 15px;
+padding: 0 16px;
 margin: 0 auto;
 }
 
