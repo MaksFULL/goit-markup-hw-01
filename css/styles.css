@@ -52,7 +52,6 @@ body {
 
 .container {
   padding: 0 16px;
-  max-width: 320px;
   margin: 0 auto;
 }
 
@@ -1018,6 +1017,7 @@ margin: 0 auto;
   .container .address {
     display: flex;
   }
+
   .list {
     display: flex;
     flex-direction: column;
